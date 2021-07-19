@@ -1,14 +1,5 @@
 
 ---
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 
 **Research Interests**
  - Inverse problems in image/signal processing
@@ -23,3 +14,4 @@ redirect_from:
 **Education**
  - Ph.D. in Applied Mathematics, University of California, Irvine. Thesis supervisor: Prof. Jack Xin
  - B.S. in Mathematics, University of Science and Technology of China 
+---
