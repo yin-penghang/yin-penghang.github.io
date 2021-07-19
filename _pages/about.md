@@ -15,11 +15,11 @@ redirect_from:
 
 **Employment**
  - 2019 - present: Assistant Professor, Department of Mathematics and Statistics, State University of New York at Albany
- - 2016 - 2019: Assistant Adjunct Professor, Department of Mathematics, University of California, Los Angeles\
+ - 2016 - 2019: Assistant Adjunct Professor, Department of Mathematics, University of California, Los Angeles.
                 Mentor: [Prof. Stanly Osher](https://www.math.ucla.edu/~sjo/)
 
 **Education**
- - Ph.D. in Applied Mathematics, University of California, Irvine\
-   Thesis supervisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
+ - Ph.D. in Applied Mathematics, University of California, Irvine.
+   Supervisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
  - B.S. in Mathematics, University of Science and Technology of China 
 
