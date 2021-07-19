@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Penghang Yin"
+title                    : "Home | Penghang Yin"
 title_separator          : "-"
 name                     : &name "Penghang Yin"
 description              : &description "personal description"
