@@ -10,7 +10,7 @@ redirect_from:
 
 **Research Interests**
  - Efficient and Trustworthy Deep Learning 
- - Image and Signal Processing
+ - Inverse Problems in Image/Signal Processing
  - Scinetific Computing, Optimization
  
 
