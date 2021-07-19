@@ -22,7 +22,7 @@ redirect_from:
 
 **Education**
  - Ph.D. in Applied Mathematics, University of California, Irvine.
-   Supervisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
+   Advisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
  - B.S. in Mathematics, University of Science and Technology of China 
 
 **Research in part supported by** 
