@@ -12,6 +12,5 @@ author_profile: true
  - compressed sensing, sparse optimization
 
 **Publications** 
-
-&nbsp;&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
+&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
 
