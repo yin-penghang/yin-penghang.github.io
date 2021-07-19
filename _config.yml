@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Penghang Yin's Homepage"
+title                    : "Penghang Yin"
 title_separator          : "-"
 name                     : &name "Penghang Yin"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Penghang Yin"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Math"
+  bio              : "Assistant Professor of Mathematics"
   employer         : "SUNY Albany"
   location         : 
   pubmed           : 
