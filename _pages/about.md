@@ -14,6 +14,6 @@ Penghang Yin is a tenure-track Assistant Professor in the [Department of Mathema
 **Research in part supported by** 
 <p float="left">
 <img src="/images/NSF-logo.png" height="100" width = "100">
-<img src="/images/IBM-Logo.jpeg" height="100"> 
+<img src="/images/IBM-Logo.jpeg" height="100" width = "150"> 
 </p>
 
