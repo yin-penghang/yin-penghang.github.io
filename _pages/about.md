@@ -25,3 +25,5 @@ redirect_from:
    Supervisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
  - B.S. in Mathematics, University of Science and Technology of China 
 
+**Research in part supported by** <img src="profile.png" alt="hi" class="inline"/>
+
