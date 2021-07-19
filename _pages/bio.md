@@ -4,6 +4,8 @@ title:
 permalink: /biography/
 author_profile: true
 ---
+{% include base_path %}
+
 
 **Employment**
  - Department of Mathematics and Statistics, State University of New York at Albany\
