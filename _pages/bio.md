@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: 
+permalink: /biography/
+author_profile: true
+---
 
 **Employment**
  - Department of Mathematics and Statistics, State University of New York at Albany\
