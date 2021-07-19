@@ -13,5 +13,5 @@ author_profile: true
 
 **Publications** 
 
-&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
+&nbsp;&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
 
