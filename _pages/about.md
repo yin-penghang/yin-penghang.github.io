@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 **Research Interests**
- - Inverse Problems in Image/Signal Processing
  - Scinetific Computing, Optimization
+ - Image and Signal Processing
  - Efficient and Trustworthy Deep Learning 
 
 **Employment**
