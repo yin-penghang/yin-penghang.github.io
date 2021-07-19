@@ -12,7 +12,7 @@ Penghang Yin is a tenure-track Assistant Professor in the [Department of Mathema
 <!--- He is also part of [UA Machine Learning research group](https://sites.google.com/view/mlualbany). -->
 
 **Research in part supported by** 
-&nbsp;&nbsp;&nbsp; <p float="left">
+<p float="left">
 <img src="/images/NSF-logo.png" height="100" width = "100" />
 <img src="/images/IBM-Logo.jpeg" height="100" width = "150" /> 
 </p>
