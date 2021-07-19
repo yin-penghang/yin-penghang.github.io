@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Research Interests**
- - Efficient and trustworthy deep learning 
+ - Efficient and Trustworthy Deep Learning 
  - Image and Signal Processing
  - Scinetific Computing, Optimization
  
