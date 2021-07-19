@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Penghang Yin is a tenure-track Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. He has broad interests in analytical and computational methods for problems in applied mathematics, especially in signal/image processing, numerical optimization, and efficent deep learning. He is also part of [UA Machine Learning research group](https://sites.google.com/view/mlualbany).
+Penghang Yin is a tenure-track Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. He has broad interests in analytical and computational methods for problems in applied mathematics, especially in signal and image processing, numerical optimization, and efficent deep learning. He is also part of [UA Machine Learning research group](https://sites.google.com/view/mlualbany).
 
 **Research in part supported by** 
 <p float="left">
