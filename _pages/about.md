@@ -14,6 +14,7 @@ Penghang Yin is an Assistant Professor in the [Department of Mathematics and Sta
 **Research in part supported by** 
 <p float="left">
 <img src="/images/NSF-logo.png" height="100" width = "100" />
-<img src="/images/IBM-Logo.jpeg" height="100" width = "150" /> 
+<img src="/images/SUNY-logo.jpeg" height="100" />
+<img src="/images/IBM-Logo.jpeg" height="100" /> 
 </p>
 
