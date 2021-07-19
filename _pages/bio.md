@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Short bio
+title: 
 permalink: /bio/
 author_profile: true
 ---
