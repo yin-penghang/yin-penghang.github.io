@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Penghang Yin"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Professor \ Mathematics & Statistics"
-  employer         : "SUNY Albany"
+  bio              : "Assistant Professor \ Mathematics & Statistics \ SUNY Albany"
+  employer         : # "SUNY Albany"
   location         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en"
