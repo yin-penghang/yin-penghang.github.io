@@ -25,5 +25,9 @@ redirect_from:
    Supervisor: [Prof. Jack Xin](https://www.math.uci.edu/~jxin/)
  - B.S. in Mathematics, University of Science and Technology of China 
 
-**Research in part supported by** <img src="profile.png" alt="hi" class="inline"/>
+**Research in part supported by** 
+<p float="left">
+<img src="https://github.com/yin-penghang/yin-penghang.github.io/blob/main/images/NSF-logo.png" height="100">
+<img src="https://github.com/yin-penghang/yin-penghang.github.io/blob/main/images/IBM-Logo.jpeg" height="100">
+</p>
 
