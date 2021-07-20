@@ -9,7 +9,7 @@ author_profile: true
 **Research Interests**
  - compression/quantization/discretization of neural netowrks
  - trustworthy artificial intelligence
- - compressed sensing, sparse optimization
+ - compressed sensing, sparse representation
 
 **Publications** 
 
