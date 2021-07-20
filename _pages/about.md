@@ -11,7 +11,7 @@ redirect_from:
 Penghang Yin is an Assistant Professor in the [Department of Mathematics and Statistics](https://www.albany.edu/math) at the [State University of New York at Albany](https://www.albany.edu/) and a member of the [machine learning group](https://sites.google.com/view/mlualbany). He has broad interests in analytical and computational methods for problems in applied mathematics, especially in signal and image processing, numerical optimization, and efficient deep learning. 
 
 
-#### I am looking for self-motivated graduate students who are interested in machine learning and data science. Please drop me an email if you are interested.
+#### I am looking for self-motivated graduate students. Please drop me an email if you are interested.
 
 
 **Research in part supported by**
