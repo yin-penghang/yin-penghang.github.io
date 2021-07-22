@@ -19,7 +19,9 @@ author_profile: true
 <p float="left">
 <img src="/images/NSF-logo.png" height="100" width = "100" />
 <img src="/images/SUNY-logo.jpeg" height="100" width = "200" />
+ <!---
 <img src="/images/IBM-Logo.jpeg" height="100" width = "150"/> 
+-->
 </p>
 
 
