@@ -15,11 +15,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
 
-**Partly supported by** <br />
-<p float="left">
-<img src="/images/NSF-logo.png" height="100" width = "100">
-<img src="/images/SUNY-logo.jpeg" height="100" width = "200">
-</p>
+**Partly supported by** 
+<br /> <br /> <br />
+[<img float="left" src="/images/NSF-logo.png" height="100" width = "100">](nsf.gov)
+[<img src="/images/SUNY-logo.jpeg" height="100" width = "200">](suny.edu)
+
 
  <!---
 <img src="/images/IBM-Logo.jpeg" height="100" width = "150"/> 
