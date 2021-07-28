@@ -15,7 +15,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; [<img align="center" src= "/images/Scholar-icon.png" height="50" width = "50">](https://scholar.google.com/citations?user=PY1Cb7MAAAAJ&hl=en)
 
-**Partly supported by**
+**Partly supported by** <br />
  <!--- <p float="left">
 </p>
 -->
