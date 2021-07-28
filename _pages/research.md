@@ -17,8 +17,8 @@ author_profile: true
 
 **Partly supported by** 
 <br /> <br /> <br />
-[<img float="left" src="/images/NSF-logo.png" height="100" width = "100">](nsf.gov)
-[<img src="/images/SUNY-logo.jpeg" height="100" width = "200">](suny.edu)
+[<img float="left" src="/images/NSF-logo.png" height="100" width = "100">](https://nsf.gov)
+[<img src="/images/SUNY-logo.jpeg" height="100" width = "200">](https://suny.edu)
 
 
  <!---
