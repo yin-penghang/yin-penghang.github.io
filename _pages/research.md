@@ -20,7 +20,6 @@ author_profile: true
 [<img src="/images/NSF-logo.png" height="100" width = "100">](https://www.nsf.gov/)
 [<img src="/images/SUNY-logo.jpeg" height="100" width = "200">](https://www.suny.edu/)
 </p>
--->
 
  <!---
 <img src="/images/IBM-Logo.jpeg" height="100" width = "150"/> 
