@@ -7,8 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Research Interests**
- - compression/quantization/discretization of neural netowrks
- - trustworthy artificial intelligence
+ - efficient and trustworthy deep learning
  - compressed sensing, sparse representation
 
 **Publications** 
