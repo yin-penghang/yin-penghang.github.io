@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Research Interests**
- - efficient and trustworthy deep learning
+ - efficient deep learning
  - compressed sensing, sparse representation
 
 **Publications** 
