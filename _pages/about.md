@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Mathematics and Statistics](https://www.albany.edu/math) at the [State University of New York at Albany](https://www.albany.edu/). I have broad interests in analytical and computational methods for problems in computational mathematics, especially in signal and image processing, numerical optimization, and machine learning. Currently my reserarch foucuses on developing efficient compression algorithms for large AI models.
+I am an Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. I have broad interests in analytical and computational methods for problems in computational mathematics, especially in signal and image processing, numerical optimization, and machine learning. Currently my reserarch foucuses on developing efficient compression algorithms for large AI models.
 
 **Grant**
 
