@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. I have broad interests in analytical and computational methods for problems in computational mathematics, especially in signal and image processing, numerical optimization, and machine learning. Currently my reserarch foucuses on developing efficient compression algorithms for large AI models.
 
+I am looking for self-motivated PhD students. Please [contact me](mailto:pyin@albany.edu) if you are interested.
+
 **Grant**
 
 - PI, SUNY-IBM AI Collaborative Research Grant, Quantization and Compression of Large AI Models, 04/24 - 04/25
@@ -18,6 +20,6 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at t
 - Co-PI, SUNY-IBM AI Collaborative Research Grant, FRAPP: Fair, Robust, and Privacy-Preserving Machine Learning Algorithms, 10/21 - 10/22
 - Co-PI, NSF Grant DMS-1924935, ATD: Collaborative Research: Robust, Accurate and Efficient Graph-Structured RNN for Spatio-Temporal Forecasting and Anomaly Detection, 07/19 - 10/22 
   
-<!---
-**I am looking for self-motivated graduate students with solid mathematical background. Please [contact me](mailto:pyin@albany.edu) if you are interested.**
---->
+
+
+
