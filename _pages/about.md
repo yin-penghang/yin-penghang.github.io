@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. I have broad interests in analytical and computational methods for signal and image processing and AI. Currently my reserarch foucuses on developing efficient compression algorithms for AI models.
+I am an Assistant Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. I have broad interests in analytical and computational methods for signal and image processing and AI. Currently my reserarch foucuses on developing efficient algorithms for compressing AI models.
 
 I am always looking for self-motivated PhD students. Please contact me (email: pyin4 at albany.edu) if you are interested.
 
