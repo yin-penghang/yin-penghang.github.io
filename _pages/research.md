@@ -16,7 +16,7 @@ author_profile: true
 
 - PI, SUNY-IBM AI Collaborative Research Grant, Quantization and Compression of Large AI Models, 06/24 - 12/25
 - PI, NSF Grant DMS-2208126, Algorithms and Theory for Compressing Deep Neural Networks, 09/22-08/25
-- PI (former PI: Y. Ying), NSF Grant IIS-2110546, Collaborative Research: RI: Small: Robust Deep Learning with Big Imbalanced Data, 10/21 - 9/25
+- PI, NSF Grant IIS-2110546, Collaborative Research: RI: Small: Robust Deep Learning with Big Imbalanced Data, 10/21 - 9/25 (former PI: Y. Ying)
 - Co-PI, SUNY-IBM AI Collaborative Research Grant, FRAPP: Fair, Robust, and Privacy-Preserving Machine Learning Algorithms, 10/21 - 10/22
 - Co-PI, NSF Grant DMS-1924935, ATD: Collaborative Research: Robust, Accurate and Efficient Graph-Structured RNN for Spatio-Temporal Forecasting and Anomaly Detection, 07/19 - 10/22 
 <br /> <br />
