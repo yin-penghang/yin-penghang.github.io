@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Grant**
+**Grants**
 
 - PI, SUNY-IBM AI Collaborative Research Grant, Quantization and Compression of Large AI Models, 06/24 - 12/25
 - PI, NSF Grant DMS-2208126, Algorithms and Theory for Compressing Deep Neural Networks, 09/22-08/25
