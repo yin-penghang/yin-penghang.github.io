@@ -16,7 +16,7 @@ author_profile: true
 
 - PI, SUNY-IBM AI Collaborative Research Grant, 06/24-12/25
 - PI, NSF Grant DMS-2208126, 09/22-08/25
-- PI, NSF Grant IIS-2110546, 10/21-9/25 (former PI: Y. Ying)
+% - PI, NSF Grant IIS-2110546, 10/21-9/25 (former PI: Y. Ying)
 - Co-PI, SUNY-IBM AI Collaborative Research Grant, 10/21-10/22
 - Co-PI, NSF Grant DMS-1924935, 07/19-10/22 
 <br /> <br />
