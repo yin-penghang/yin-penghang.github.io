@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Employment**
+**Experience**
  - Department of Mathematics and Statistics, State University of New York at Albany\
    Assistant Professor (2019- )
  - Department of Mathematics, University of California, Los Angeles\
