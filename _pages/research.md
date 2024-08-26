@@ -18,9 +18,6 @@ author_profile: true
 - PI, NSF Grant DMS-2208126, 09/22-08/25
 - Co-PI, SUNY-IBM AI Collaborative Research Grant, 10/21-10/22
 - Co-PI, NSF Grant DMS-1924935, 07/19-10/22 
-<br /> <br />
-[<img float="left" src="/images/NSF-logo.png" height="100" width = "100">](https://nsf.gov)
-[<img src="/images/SUNY-logo.jpeg" height="100" width = "200">](https://suny.edu)
-[<img src="/images/IBM-Logo.jpeg" height="100" width = "150"/>](https://www.ibm.com)
+
 
 
