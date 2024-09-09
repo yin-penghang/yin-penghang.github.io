@@ -14,7 +14,7 @@ Currently, I am focused on advancing efficient inference and fine-tuning techniq
 
 **Group**
 - Aozhong Zhang, PhD student, 2022- 
-- Yanxia Deng, research scientist, 2024- 
+- Yanxia Deng (Math PhD, Northwestern), research scientist, 2024- 
   
 
 
