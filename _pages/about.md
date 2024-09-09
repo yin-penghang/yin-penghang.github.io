@@ -12,7 +12,9 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at t
 
 Currently, I am focused on advancing efficient inference and fine-tuning techniques for modern AI models, including large language models. My research is partially supported by [National Science Foundation](https://www.nsf.gov/) and [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/).
 
-
+**Group**
+- Aozhong Zhang, PhD student, 2022- 
+- Yanxia Deng, research scientist, 2024- 
   
 
 
