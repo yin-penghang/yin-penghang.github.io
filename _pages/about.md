@@ -14,7 +14,11 @@ Currently, I am focused on advancing efficient inference and fine-tuning techniq
 
 **Group**
 - Aozhong Zhang, PhD student, 2022-
+   - Internship: IBM Research
+     
 - Selcuk Gurses, PhD student, 2024-
+   - Internship: GE Vernova
+  
 - Dr. Yanxia Deng, research scientist, 2024- 
   
 
