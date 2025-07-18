@@ -21,5 +21,5 @@ I am currently focused on developing efficient algorithms for modern AI models, 
   
 **News**
 
-- [05/25] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into AMD's [Brevitas](https://github.com/Xilinx/brevitas) library for neural network quantization.
+- [May 2025] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into AMD's [Brevitas](https://github.com/Xilinx/brevitas) library for neural network quantization.
 
