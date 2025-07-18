@@ -21,5 +21,5 @@ Currently, I am focused on advancing efficient inference and fine-tuning techniq
   
 **News**
 
-- [May 25] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into [Brevitas](https://github.com/Xilinx/brevitas) PyTorch library for neural network quantization.
+- [05/25] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into [Brevitas](https://github.com/Xilinx/brevitas) PyTorch library for neural network quantization.
 
