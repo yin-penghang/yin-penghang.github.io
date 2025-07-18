@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. My research spans analytical and computational methods for signal and image processing, as well as machine learning. 
+I am an Associate Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. My research spans analytical and computational methods for signal processing and machine learning. 
 
-Currently, I am focused on advancing efficient inference and fine-tuning techniques for modern AI models, including large language models. My research is partially supported by [National Science Foundation](https://www.nsf.gov/) and [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/).
+I am currently focused on developing efficient algorithms for modern AI models, particularly large language models. My research also explores discrete optimization problems that emerge in machine learning applications. My research is partially supported by [National Science Foundation](https://www.nsf.gov/) and [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/).
 
 **Group**
 - Aozhong Zhang, PhD student, 2022-
