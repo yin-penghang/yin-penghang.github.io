@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Department of Mathematics and Statistics at the State University of New York at Albany. My research spans analytical and computational methods for signal processing and machine learning. 
+I am an Associate Professor in the [Department of Mathematics and Statistics](https://www.albany.edu/math) and a faculty member of [AI Plus Institute](https://www.albany.edu/ai-plus) at the State University of New York at Albany. My research spans analytical and computational methods for signal processing and machine learning. 
 
 I am currently focused on developing efficient algorithms for modern AI models, particularly large language models. My research also explores discrete optimization problems that emerge in machine learning applications. My research is partially supported by [National Science Foundation](https://www.nsf.gov/) and [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/).
 
