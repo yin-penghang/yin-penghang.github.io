@@ -19,7 +19,7 @@ I am currently focused on developing efficient algorithms for modern AI models, 
   
 **Alumni**
 
-- Dr. Yanxia Deng, research scientist, 2024-25. Now Senior Computational Research Consultant at Northwestern University.
+- Dr. Yanxia Deng, research scientist, 2024-25. Now at Northwestern University.
 
 **News**
 
