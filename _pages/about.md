@@ -16,8 +16,6 @@ I am currently focused on developing efficient algorithms for modern AI models, 
 - Aozhong Zhang, PhD student, 2022-
      
 - Selcuk Gurses, PhD student, 2024-
-  
-**Alumni**
 
 - Yanxia Deng, research scientist, 2024-25. Now at Northwestern University.
 
