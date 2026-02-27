@@ -12,6 +12,10 @@ I am an Associate Professor in the [Department of Mathematics and Statistics](ht
 
 I am currently focused on developing post-training algorithms for modern AI models, particularly large language models. My research is partially supported by [National Science Foundation](https://www.nsf.gov/), [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/), and [the Center for Emerging Artificial Intelligence Systems (CEAIS)](https://www.albany.edu/ai-plus/emerging-artificial-intelligence-systems).
 
+**Recent Publications**
+
+- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku)
+
 **Group**
 - Aozhong Zhang, PhD student, 2022-
      
