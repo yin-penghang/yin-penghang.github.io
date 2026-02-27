@@ -14,7 +14,7 @@ I am currently focused on developing post-training algorithms for modern AI mode
 
 **Recent Publications**
 
-- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku)
+- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku), ICLR2026
 
 **Group**
 - Aozhong Zhang, PhD student, 2022-
