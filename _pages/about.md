@@ -15,6 +15,7 @@ I am currently focused on developing post-training algorithms for modern AI mode
 **Recent Publications**
 
 - [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku), *ICLR 2026*
+- [MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization](https://openreview.net/pdf?id=UARTFgkTqW), *NeurIPS 2024*
 
 **Group**
 - Aozhong Zhang, PhD student, 2022-
