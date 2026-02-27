@@ -12,11 +12,6 @@ I am an Associate Professor in the [Department of Mathematics and Statistics](ht
 
 I am currently focused on developing post-training algorithms for modern AI models, particularly large language models. My research is partially supported by [National Science Foundation](https://www.nsf.gov/), [SUNY-IBM AI Research Alliance](https://www.suny.edu/ai-research-alliance/), and [the Center for Emerging Artificial Intelligence Systems (CEAIS)](https://www.albany.edu/ai-plus/emerging-artificial-intelligence-systems).
 
-**Recent Publications**
-
-- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku), *ICLR'26*
-- [DiaBlo: Diagonal Blocks are Suffcient for Fine-tuning](https://openreview.net/pdf?id=cZaI6GmjBm), *ICLR'26*
-- [MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization](https://openreview.net/pdf?id=UARTFgkTqW), *NeurIPS'24*
 
 **Group**
 - Aozhong Zhang, PhD student, 2022-
@@ -30,4 +25,10 @@ I am currently focused on developing post-training algorithms for modern AI mode
 - [Jan 2026] Congratulations to Aozhong on receiving the 2025-26 IBM PhD Fellowship Award!
 
 - [May 2025] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into AMD's [Brevitas](https://github.com/Xilinx/brevitas) library for neural network quantization.
+
+**Recent Publications**
+
+- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku), *ICLR'26*
+- [DiaBlo: Diagonal Blocks are Suffcient for Fine-tuning](https://openreview.net/pdf?id=cZaI6GmjBm), *ICLR'26*
+- [MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization](https://openreview.net/pdf?id=UARTFgkTqW), *NeurIPS'24*
 
