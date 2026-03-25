@@ -28,7 +28,7 @@ I am currently focused on developing post-training algorithms for modern AI mode
 
 **Recent Publications**
 
-- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://openreview.net/pdf?id=W8ZXfNaqku), *ICLR'26*
-- [DiaBlo: Diagonal Blocks are Suffcient for Fine-tuning](https://openreview.net/pdf?id=cZaI6GmjBm), *ICLR'26*
-- [MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization](https://openreview.net/pdf?id=UARTFgkTqW), *NeurIPS'24*
+- [Frayed RoPE and Long Inputs: A Geometric Perspective](https://arxiv.org/pdf/2603.18017), *ICLR'26*
+- [DiaBlo: Diagonal Blocks are Suffcient for Fine-tuning](https://arxiv.org/pdf/2506.03230), *ICLR'26*
+- [MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization](https://arxiv.org/pdf/2406.00800), *NeurIPS'24*
 
