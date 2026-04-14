@@ -14,7 +14,7 @@ I am currently focused on developing post-training algorithms for the efficient 
 
 
 **Group**
-- Aozhong Zhang, PhD student, 2022-
+- [Aozhong Zhang](https://aozhongzhang.github.io/), PhD student, 2022-
      
 - Selcuk Gurses, PhD student, 2024-
 
