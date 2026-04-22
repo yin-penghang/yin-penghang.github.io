@@ -22,7 +22,7 @@ I am currently focused on developing post-training algorithms for the efficient 
 
 **News**
 
-- [Jan 2026] Congratulations to Aozhong on receiving the 2025-26 IBM PhD Fellowship Award!
+- [Jan 2026] Congratulations to Aozhong on receiving the 2025-26 [IBM PhD Fellowship Award](https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program#main-content)!
 
 - [May 2025] Our [MagR](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a987c98a7f36cc83f9065df3ca4f9e0-Paper-Conference.pdf) algorithm is integrated into AMD's [Brevitas](https://github.com/Xilinx/brevitas) library for neural network quantization.
 
